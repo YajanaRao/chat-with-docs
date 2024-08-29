@@ -10,3 +10,7 @@
 - Create OpenAI API Key and add it to your `.env` file (don't forget to remove "copy" extension from the .env before run)
 - Run the application:
 - `streamlit run app.py`
+
+Reference: 
+
+https://github.com/strongSoda/chat-with-pdf-tutorial
