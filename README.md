@@ -11,6 +11,6 @@
 - Run the application:
 - `streamlit run app.py`
 
-Reference: 
+## Reference: 
 
 https://github.com/strongSoda/chat-with-pdf-tutorial
